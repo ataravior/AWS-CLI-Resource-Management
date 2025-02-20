@@ -3,7 +3,6 @@
 A fully automated AWS CLI tool built with **Pulumi Automation API** and **Boto3**, allowing seamless **creation, management, and deletion** of AWS resources like **EC2, S3, and Route 53** – all from an intuitive command-line interface.
 
 ## ⚡ **Why This Project?**
-✅ **No More Manual `pulumi up`** – Everything is automated  
 ✅ **Pulumi + Boto3 Hybrid** – The best of **Infrastructure as Code** & AWS SDK  
 ✅ **Interactive CLI** – A **fast and simple** AWS management experience  
 ✅ **Filtered AWS Resources** – Only manage what **you created**  
