@@ -22,7 +22,7 @@ A fully automated AWS CLI tool built with **Pulumi Automation API** and **Boto3*
 
 ## 🔧 **Installation & Setup**
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/aws-cli-automation.git
+git clone https://github.com/ataravior/aws-cli-automation.git
 cd aws-cli-automation
 
 # Create Virtual Environment
