@@ -3,7 +3,6 @@ config:
   aws-cli:instance_type: t3.nano
   aws-cli:ami_choice: Ubuntu
   aws:region: us-east-1
-  aws-cli:instance_name_0: avior-testt-0
-  aws-cli:instance_name_1: elay-1
+  aws-cli:instance_name_0: TEST-0
   pulumi:secrets_provider: local
 encryptionsalt: v1:Tn4+HCzj++M=:v1:peTaMxi+g7H57zsc:5/O8UVJ5ORyPsJbWyGmKA5t7Ob4ETA==
