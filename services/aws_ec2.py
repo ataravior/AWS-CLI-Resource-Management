@@ -9,7 +9,7 @@ os.environ["PULUMI_CONFIG_PASSPHRASE"] = ""
 ec2 = boto3.client("ec2")
 
 def list_instances():
-    """List all EC2 instances created by Pulumi"""
+    """ List all EC2 instances created by Pulumi """
     response = ec2.describe_instances(Filters=[{"Name": "tag:CreatedBy", "Values": ["Pulumi"]}])
     instances = []
     for reservation in response["Reservations"]:
