@@ -10,10 +10,10 @@ A fully automated AWS CLI tool built with **Pulumi Automation API** and **Boto3*
 
 
 ##  **Why This Project?**
- **Pulumi + Boto3 Hybrid** – The best of **Infrastructure as Code** & AWS SDK  
- **Interactive CLI** – A **fast and simple** AWS management experience  
- **Filtered AWS Resources** – Only manage what **you created**  
- **Modular & Scalable** – Easily extend for new AWS services  
+ ** Pulumi + Boto3 Hybrid** – The best of **Infrastructure as Code** & AWS SDK  
+ ** Interactive CLI** – A **fast and simple** AWS management experience  
+ ** Filtered AWS Resources** – Only manage what **you created**  
+ ** Modular & Scalable** – Easily extend for new AWS services  
 
 ---
 
@@ -46,10 +46,10 @@ aws configure
 ---
 
 ##  **How It Works**
-🔹 **Interactive CLI** – The menu guides users through AWS management  
-🔹 **Pulumi Runs in the Background** – No need to confirm manually  
-🔹 **Everything is Tagged** – Only manage AWS resources created via this CLI  
-🔹 **Supports EC2, S3, and Route 53** – More services coming soon!  
+ **Interactive CLI** – The menu guides users through AWS management  
+ **Pulumi Runs in the Background** – No need to confirm manually  
+ **Everything is Tagged** – Only manage AWS resources created via this CLI  
+ **Supports EC2, S3, and Route 53** – More services coming soon!  
 
 ### **Run the CLI**
 ```sh
