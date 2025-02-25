@@ -4,29 +4,29 @@ A fully automated AWS CLI tool built with **Pulumi Automation API** and **Boto3*
 
 ---
 
-## 🎥 Demo
+##  Demo
 
 ![Image](https://github.com/user-attachments/assets/68a71360-6d92-488d-9893-a033d6b93776)
 
 
-## ⚡ **Why This Project?**
-✅ **Pulumi + Boto3 Hybrid** – The best of **Infrastructure as Code** & AWS SDK  
-✅ **Interactive CLI** – A **fast and simple** AWS management experience  
-✅ **Filtered AWS Resources** – Only manage what **you created**  
-✅ **Modular & Scalable** – Easily extend for new AWS services  
+##  **Why This Project?**
+ **Pulumi + Boto3 Hybrid** – The best of **Infrastructure as Code** & AWS SDK  
+ **Interactive CLI** – A **fast and simple** AWS management experience  
+ **Filtered AWS Resources** – Only manage what **you created**  
+ **Modular & Scalable** – Easily extend for new AWS services  
 
 ---
 
-## 🚀 **Tech Stack**
-- **🛠️ Pulumi Automation API** – Automate AWS infrastructure provisioning  
-- **☁️ AWS Boto3** – Direct AWS SDK integration for advanced control  
-- **🐍 Python 3.x** – Core language for scripting and automation  
-- **🖥️ CLI-Driven Interface** – Fully interactive & user-friendly  
-- **🔒 IAM Role-Based Authentication** – Secure AWS access  
+##  **Tech Stack**
+- ** Pulumi Automation API** – Automate AWS infrastructure provisioning  
+- ** AWS Boto3** – Direct AWS SDK integration for advanced control  
+- ** Python 3.x** – Core language for scripting and automation  
+- ** CLI-Driven Interface** – Fully interactive & user-friendly  
+- ** IAM Role-Based Authentication** – Secure AWS access  
 
 ---
 
-## 🔧 **Installation & Setup**
+##  **Installation & Setup**
 ```sh
 git clone https://github.com/ataravior/aws-cli-automation.git
 cd aws-cli-automation
@@ -45,7 +45,7 @@ aws configure
 
 ---
 
-## 🏗️ **How It Works**
+##  **How It Works**
 🔹 **Interactive CLI** – The menu guides users through AWS management  
 🔹 **Pulumi Runs in the Background** – No need to confirm manually  
 🔹 **Everything is Tagged** – Only manage AWS resources created via this CLI  
@@ -67,22 +67,22 @@ Select an action:
 
 ---
 
-## 🌍 **Automated AWS Services**
-### 🖥️ **EC2 Management**
-✅ Create, List, Start, Stop & Terminate instances  
-✅ Uses only **CLI-created** instances for safety  
+##  **Automated AWS Services**
+###  **EC2 Management**
+ Create, List, Start, Stop & Terminate instances  
+ Uses only **CLI-created** instances for safety  
 
-### ☁️ **S3 Bucket Management**
-✅ Create & Manage AWS S3 Buckets  
-✅ Upload files **without UI hassle**  
+###  **S3 Bucket Management**
+ Create & Manage AWS S3 Buckets  
+ Upload files **without UI hassle**  
 
-### 🌐 **Route 53 DNS Automation**
-✅ Manage **DNS Zones** & **Records**  
-✅ Automate domain configurations **within seconds**  
+###  **Route 53 DNS Automation**
+ Manage **DNS Zones** & **Records**  
+ Automate domain configurations **within seconds**  
 
 ---
 
-## 🛠️ **Pulumi Automation**
+##  **Pulumi Automation**
 Pulumi runs **without interruptions**:
 ```sh
 export PULUMI_CONFIG_PASSPHRASE=""  # Skip manual confirmation
@@ -95,7 +95,7 @@ pulumi up --yes
 ---
 
 
-## 📢 **Contribute**
+##  **Contribute**
 🚀 PRs are welcome! Fork, commit, and create a **Pull Request**.    
 🔥 **If this project helps you, give it a ⭐ on GitHub!**  
 
